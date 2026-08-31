@@ -1,0 +1,401 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20 -20 3560 938" font-family="Arial, Helvetica, sans-serif">
+<defs>
+  <pattern id="hatch" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)">
+    <line x1="0" y1="0" x2="0" y2="6" stroke="#bbbbbb" stroke-width="1"/>
+  </pattern>
+</defs>
+<g id="studenthub-portal-wireframe">
+<g id="screen-home">
+<rect id="home-frame" x="0.0" y="0.0" width="400.0" height="420.0" rx="0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="14.0" y="22.0" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-weight="bold" text-anchor="start" fill="#000000">STUDENTHUB PORTAL</text>
+<g id="home-nav-profile">
+<rect x="232.0" y="8.0" width="46.0" height="18.0" rx="4" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="255.0" y="19.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">PROFILE</text>
+</g>
+<g id="home-nav-login">
+<rect x="286.0" y="8.0" width="46.0" height="18.0" rx="4" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="309.0" y="19.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">LOGIN</text>
+</g>
+<g id="home-nav-signup">
+<rect x="340.0" y="8.0" width="46.0" height="18.0" rx="4" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="363.0" y="19.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">SIGNUP</text>
+</g>
+<line x1="0.0" y1="34.0" x2="400.0" y2="34.0" stroke="#000000" stroke-width="1"/>
+<rect x="8.0" y="38.0" width="384.0" height="20.0" rx="0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="200.0" y="52.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="normal" text-anchor="middle" fill="#000000">DASHBOARD</text>
+<rect x="8.0" y="66.0" width="384.0" height="210.0" rx="0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<g id="home-to-timetable">
+<rect x="8.0" y="284.0" width="188.0" height="20.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="102.0" y="296.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">TIME TABLE</text>
+</g>
+<g id="home-to-courses">
+<rect x="204.0" y="284.0" width="188.0" height="20.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="298.0" y="296.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">COURSE</text>
+</g>
+<g id="home-to-events">
+<rect x="8.0" y="308.0" width="188.0" height="20.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="102.0" y="320.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">EVENTS</text>
+</g>
+<g id="home-to-placement">
+<rect x="204.0" y="308.0" width="188.0" height="20.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="298.0" y="320.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">PLACEMENT RECORDS</text>
+</g>
+<g id="home-to-scholarship">
+<rect x="8.0" y="332.0" width="188.0" height="20.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="102.0" y="344.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">SCHOLARSHIP DETAILS</text>
+</g>
+<g id="home-to-workshop">
+<rect x="204.0" y="332.0" width="188.0" height="20.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="298.0" y="344.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">WORKSHOP DETAILS</text>
+</g>
+<g id="home-to-settings">
+<rect x="8.0" y="396.0" width="70.0" height="16.0" rx="8.0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="43.0" y="406.4" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">SETTING</text>
+</g>
+<g id="home-to-about">
+<rect x="322.0" y="396.0" width="70.0" height="16.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="357.0" y="406.4" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">ABOUT US</text>
+</g>
+</g>
+<g id="screen-timetable">
+<rect x="500.0" y="0.0" width="420.0" height="290.0" rx="0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="512.0" y="22.0" font-family="Georgia, 'Times New Roman', serif" font-size="12" font-weight="bold" text-anchor="start" fill="#000000">STUDENTHUB PORTAL</text>
+<g id="screen-timetable-to-profile">
+<rect x="800.0" y="7.0" width="56.0" height="20.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="828.0" y="19.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">PROFILE</text>
+</g>
+<g id="screen-timetable-back">
+<rect x="862.0" y="7.0" width="46.0" height="20.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="885.0" y="19.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">BACK</text>
+</g>
+<line x1="500.0" y1="34.0" x2="920.0" y2="34.0" stroke="#000000" stroke-width="1"/>
+<rect x="508.0" y="38.0" width="404.0" height="20.0" rx="0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="710.0" y="52.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="normal" text-anchor="middle" fill="#000000">TIMETABLE</text>
+<rect x="508.0" y="66.0" width="46.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<rect x="554.0" y="66.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="589.8" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" fill="#000000">MON</text>
+<rect x="625.6" y="66.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="661.4" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" fill="#000000">TUE</text>
+<rect x="697.2" y="66.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="733.0" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" fill="#000000">WED</text>
+<rect x="768.8" y="66.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="804.5999999999999" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" fill="#000000">THU</text>
+<rect x="840.4" y="66.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="876.1999999999999" y="82.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" fill="#000000">FRI</text>
+<rect x="508.0" y="92.0" width="46.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="531.0" y="108.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">9:00</text>
+<rect x="554.0" y="92.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="589.8" y="108.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">DS</text>
+<rect x="625.6" y="92.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="661.4" y="108.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">MATHS</text>
+<rect x="697.2" y="92.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="733.0" y="108.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">OOP</text>
+<rect x="768.8" y="92.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="804.5999999999999" y="108.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">DLD</text>
+<rect x="840.4" y="92.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="876.1999999999999" y="108.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">COA</text>
+<rect x="508.0" y="118.0" width="46.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="531.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">10:00</text>
+<rect x="554.0" y="118.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="589.8" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">DLD</text>
+<rect x="625.6" y="118.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="661.4" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">COA</text>
+<rect x="697.2" y="118.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="733.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">DS</text>
+<rect x="768.8" y="118.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="804.5999999999999" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">MATHS</text>
+<rect x="840.4" y="118.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="876.1999999999999" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">DS</text>
+<rect x="508.0" y="144.0" width="46.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="531.0" y="160.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">11:00</text>
+<rect x="554.0" y="144.0" width="358.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="733.0" y="160.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" fill="#000000">LUNCH BREAK</text>
+<rect x="508.0" y="170.0" width="46.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="531.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">12:00</text>
+<rect x="554.0" y="170.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="589.8" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">COA</text>
+<rect x="625.6" y="170.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="661.4" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">DS LAB</text>
+<rect x="697.2" y="170.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="733.0" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">MATHS</text>
+<rect x="768.8" y="170.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="804.5999999999999" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">OOP LAB</text>
+<rect x="840.4" y="170.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="876.1999999999999" y="186.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">DLD LAB</text>
+<rect x="508.0" y="196.0" width="46.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="531.0" y="212.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">1:00</text>
+<rect x="554.0" y="196.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="589.8" y="212.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">OOP LAB</text>
+<rect x="625.6" y="196.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="661.4" y="212.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">DS LAB</text>
+<rect x="697.2" y="196.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="733.0" y="212.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">COA LAB</text>
+<rect x="768.8" y="196.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="804.5999999999999" y="212.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">OOP LAB</text>
+<rect x="840.4" y="196.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="876.1999999999999" y="212.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">DLD LAB</text>
+<rect x="508.0" y="222.0" width="46.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="531.0" y="238.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">2:00</text>
+<rect x="554.0" y="222.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="589.8" y="238.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">OOP LAB</text>
+<rect x="625.6" y="222.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="661.4" y="238.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">DLD</text>
+<rect x="697.2" y="222.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="733.0" y="238.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">COA LAB</text>
+<rect x="768.8" y="222.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="804.5999999999999" y="238.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">DS</text>
+<rect x="840.4" y="222.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="876.1999999999999" y="238.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">MATHS</text>
+<rect x="508.0" y="248.0" width="46.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="531.0" y="264.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">3:00</text>
+<rect x="554.0" y="248.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="589.8" y="264.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">MATHS</text>
+<rect x="625.6" y="248.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="661.4" y="264.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">OOP</text>
+<rect x="697.2" y="248.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="733.0" y="264.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">DLD</text>
+<rect x="768.8" y="248.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="804.5999999999999" y="264.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">COA</text>
+<rect x="840.4" y="248.0" width="71.6" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="876.1999999999999" y="264.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="middle" fill="#000000">OOP</text>
+</g>
+<g id="screen-courses">
+<rect x="1020.0" y="0.0" width="420.0" height="302.0" rx="0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="1032.0" y="22.0" font-family="Georgia, 'Times New Roman', serif" font-size="12" font-weight="bold" text-anchor="start" fill="#000000">STUDENTHUB PORTAL</text>
+<g id="screen-courses-to-profile">
+<rect x="1320.0" y="7.0" width="56.0" height="20.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="1348.0" y="19.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">PROFILE</text>
+</g>
+<g id="screen-courses-back">
+<rect x="1382.0" y="7.0" width="46.0" height="20.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="1405.0" y="19.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">BACK</text>
+</g>
+<line x1="1020.0" y1="34.0" x2="1440.0" y2="34.0" stroke="#000000" stroke-width="1"/>
+<rect x="1028.0" y="38.0" width="404.0" height="20.0" rx="0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="1230.0" y="52.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="normal" text-anchor="middle" fill="#000000">COURSES</text>
+<rect x="1028.0" y="66.0" width="404.0" height="44.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="1036.0" y="79.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">DATA STRUCTURES (DS)</text>
+<text x="1036.0" y="91.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">STUDY OF ARRAYS, LINKED LISTS, STACKS, QUEUES, TREES</text>
+<text x="1036.0" y="102.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">AND GRAPHS FOR EFFICIENT DATA STORAGE &amp; RETRIEVAL.</text>
+<rect x="1028.0" y="110.0" width="404.0" height="44.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="1036.0" y="123.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">DISCRETE MATHEMATICS (MATHS)</text>
+<text x="1036.0" y="135.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">COVERS SET THEORY, LOGIC, COMBINATORICS AND GRAPH</text>
+<text x="1036.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">THEORY - THE MATH FOUNDATION FOR ALGORITHMS.</text>
+<rect x="1028.0" y="154.0" width="404.0" height="44.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="1036.0" y="167.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">OBJECT ORIENTED PROGRAMMING (OOP)</text>
+<text x="1036.0" y="179.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">INTRODUCES CLASSES, INHERITANCE, POLYMORPHISM AND</text>
+<text x="1036.0" y="190.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">ENCAPSULATION USING JAVA/C++ WITH MODULAR DESIGN.</text>
+<rect x="1028.0" y="198.0" width="404.0" height="44.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="1036.0" y="211.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">DIGITAL LOGIC DESIGN (DLD)</text>
+<text x="1036.0" y="223.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">EXPLORES BOOLEAN ALGEBRA, LOGIC GATES AND</text>
+<text x="1036.0" y="234.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">COMBINATIONAL/SEQUENTIAL CIRCUITS FOR HARDWARE.</text>
+<rect x="1028.0" y="242.0" width="404.0" height="44.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="1036.0" y="255.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">COMPUTER ORGANIZATION &amp; ARCHITECTURE (COA)</text>
+<text x="1036.0" y="267.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">EXPLAINS CPU DESIGN, MEMORY HIERARCHY, INSTRUCTION</text>
+<text x="1036.0" y="278.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">SETS AND PIPELINING LINKING HARDWARE WITH SOFTWARE.</text>
+</g>
+<g id="screen-placement">
+<rect x="1540.0" y="0.0" width="420.0" height="252.0" rx="0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="1552.0" y="22.0" font-family="Georgia, 'Times New Roman', serif" font-size="12" font-weight="bold" text-anchor="start" fill="#000000">STUDENTHUB PORTAL</text>
+<g id="screen-placement-to-profile">
+<rect x="1840.0" y="7.0" width="56.0" height="20.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="1868.0" y="19.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">PROFILE</text>
+</g>
+<g id="screen-placement-back">
+<rect x="1902.0" y="7.0" width="46.0" height="20.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="1925.0" y="19.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">BACK</text>
+</g>
+<line x1="1540.0" y1="34.0" x2="1960.0" y2="34.0" stroke="#000000" stroke-width="1"/>
+<rect x="1548.0" y="38.0" width="404.0" height="20.0" rx="0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="1750.0" y="52.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="normal" text-anchor="middle" fill="#000000">PLACEMENT RECORDS</text>
+<rect x="1548.0" y="66.0" width="404.0" height="34.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="1556.0" y="80.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">TCS</text>
+<text x="1556.0" y="93.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">PLACED: 24   |   HIGHEST: 12 LPA   |   AVERAGE: 7.5 LPA</text>
+<rect x="1548.0" y="100.0" width="404.0" height="34.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="1556.0" y="114.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">INFOSYS</text>
+<text x="1556.0" y="127.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">PLACED: 30   |   HIGHEST: 9 LPA   |   AVERAGE: 6.2 LPA</text>
+<rect x="1548.0" y="134.0" width="404.0" height="34.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="1556.0" y="148.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">WIPRO</text>
+<text x="1556.0" y="161.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">PLACED: 18   |   HIGHEST: 8 LPA   |   AVERAGE: 5.8 LPA</text>
+<rect x="1548.0" y="168.0" width="404.0" height="34.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="1556.0" y="182.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">AMAZON</text>
+<text x="1556.0" y="195.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">PLACED: 10   |   HIGHEST: 32 LPA   |   AVERAGE: 18 LPA</text>
+<rect x="1548.0" y="202.0" width="404.0" height="34.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="1556.0" y="216.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">ACCENTURE</text>
+<text x="1556.0" y="229.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">PLACED: 22   |   HIGHEST: 11 LPA   |   AVERAGE: 6.8 LPA</text>
+</g>
+<g id="screen-scholarship">
+<rect x="2060.0" y="0.0" width="420.0" height="240.0" rx="0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="2072.0" y="22.0" font-family="Georgia, 'Times New Roman', serif" font-size="12" font-weight="bold" text-anchor="start" fill="#000000">STUDENTHUB PORTAL</text>
+<g id="screen-scholarship-to-profile">
+<rect x="2360.0" y="7.0" width="56.0" height="20.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="2388.0" y="19.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">PROFILE</text>
+</g>
+<g id="screen-scholarship-back">
+<rect x="2422.0" y="7.0" width="46.0" height="20.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="2445.0" y="19.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">BACK</text>
+</g>
+<line x1="2060.0" y1="34.0" x2="2480.0" y2="34.0" stroke="#000000" stroke-width="1"/>
+<rect x="2068.0" y="38.0" width="404.0" height="20.0" rx="0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="2270.0" y="52.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="normal" text-anchor="middle" fill="#000000">SCHOLARSHIP DETAILS</text>
+<rect x="2068.0" y="66.0" width="404.0" height="40.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="2076.0" y="79.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">MERIT SCHOLARSHIP</text>
+<text x="2076.0" y="90.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">ELIGIBILITY: CGPA ABOVE 8.5, NO ACTIVE BACKLOG</text>
+<text x="2076.0" y="101.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">AMOUNT: RS 50,000 PER YEAR</text>
+<rect x="2068.0" y="106.0" width="404.0" height="40.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="2076.0" y="119.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">MEANS-CUM-MERIT SCHOLARSHIP</text>
+<text x="2076.0" y="130.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">ELIGIBILITY: FAMILY INCOME BELOW RS 6 LPA</text>
+<text x="2076.0" y="141.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">AMOUNT: RS 30,000 PER YEAR</text>
+<rect x="2068.0" y="146.0" width="404.0" height="40.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="2076.0" y="159.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">SPORTS SCHOLARSHIP</text>
+<text x="2076.0" y="170.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">ELIGIBILITY: STATE OR NATIONAL LEVEL PLAYER</text>
+<text x="2076.0" y="181.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">AMOUNT: RS 20,000 PER YEAR</text>
+<rect x="2068.0" y="186.0" width="404.0" height="40.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="2076.0" y="199.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">MINORITY SCHOLARSHIP</text>
+<text x="2076.0" y="210.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">ELIGIBILITY: AS PER GOVERNMENT MINORITY NORMS</text>
+<text x="2076.0" y="221.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">AMOUNT: RS 25,000 PER YEAR</text>
+</g>
+<g id="screen-events">
+<rect x="2580.0" y="0.0" width="420.0" height="216.0" rx="0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="2592.0" y="22.0" font-family="Georgia, 'Times New Roman', serif" font-size="12" font-weight="bold" text-anchor="start" fill="#000000">STUDENTHUB PORTAL</text>
+<g id="screen-events-to-profile">
+<rect x="2880.0" y="7.0" width="56.0" height="20.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="2908.0" y="19.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">PROFILE</text>
+</g>
+<g id="screen-events-back">
+<rect x="2942.0" y="7.0" width="46.0" height="20.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="2965.0" y="19.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">BACK</text>
+</g>
+<line x1="2580.0" y1="34.0" x2="3000.0" y2="34.0" stroke="#000000" stroke-width="1"/>
+<rect x="2588.0" y="38.0" width="404.0" height="20.0" rx="0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="2790.0" y="52.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="normal" text-anchor="middle" fill="#000000">EVENTS</text>
+<rect x="2588.0" y="66.0" width="404.0" height="44.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="2596.0" y="79.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">CODER'S ARCADE</text>
+<text x="2596.0" y="91.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">DATE: 18 AUG 2026, 10:00 AM</text>
+<text x="2596.0" y="102.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">FORMAT: OFFLINE, TEAM OF 3, MAIN AUDITORIUM</text>
+<rect x="2588.0" y="110.0" width="404.0" height="44.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="2596.0" y="123.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">SUPERNOVA</text>
+<text x="2596.0" y="135.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">DATE: 25 AUG 2026, 9:00 AM</text>
+<text x="2596.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">FORMAT: HYBRID, ONLINE PRELIMS + OFFLINE FINALE</text>
+<rect x="2588.0" y="154.0" width="404.0" height="44.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="2596.0" y="167.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">CODING BATTLE</text>
+<text x="2596.0" y="179.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">DATE: 2 SEP 2026, 11:00 AM</text>
+<text x="2596.0" y="190.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">FORMAT: ONLINE, INDIVIDUAL, 2 HOUR CONTEST</text>
+</g>
+<g id="screen-workshop">
+<rect x="3100.0" y="0.0" width="420.0" height="216.0" rx="0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="3112.0" y="22.0" font-family="Georgia, 'Times New Roman', serif" font-size="12" font-weight="bold" text-anchor="start" fill="#000000">STUDENTHUB PORTAL</text>
+<g id="screen-workshop-to-profile">
+<rect x="3400.0" y="7.0" width="56.0" height="20.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="3428.0" y="19.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">PROFILE</text>
+</g>
+<g id="screen-workshop-back">
+<rect x="3462.0" y="7.0" width="46.0" height="20.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="3485.0" y="19.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">BACK</text>
+</g>
+<line x1="3100.0" y1="34.0" x2="3520.0" y2="34.0" stroke="#000000" stroke-width="1"/>
+<rect x="3108.0" y="38.0" width="404.0" height="20.0" rx="0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="3310.0" y="52.0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="normal" text-anchor="middle" fill="#000000">WORKSHOP DETAILS</text>
+<rect x="3108.0" y="66.0" width="404.0" height="54.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="3116.0" y="79.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">AI WORKSHOP</text>
+<text x="3116.0" y="90.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">SPEAKER: DR. R. MEHTA, AI RESEARCHER, IIT BOMBAY</text>
+<text x="3116.0" y="101.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">DATE: 20 AUG 2026, 10:00 AM</text>
+<text x="3116.0" y="112.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">INFO: HANDS-ON ML MODEL BUILDING, 3 HRS, 40 SEATS</text>
+<rect x="3108.0" y="120.0" width="404.0" height="54.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="3116.0" y="133.0" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">FUTURE LINES</text>
+<text x="3116.0" y="144.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">SPEAKER: MR. A. VERMA, INDUSTRY CAREER COACH</text>
+<text x="3116.0" y="155.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">DATE: 28 AUG 2026, 2:00 PM</text>
+<text x="3116.0" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">INFO: TALK ON TECH CAREERS &amp; NETWORKING, 2 HRS, 50 SEATS</text>
+</g>
+<g id="screen-profile">
+<rect x="0.0" y="520.0" width="420.0" height="378.0" rx="0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<g id="screen-profile-back">
+<rect x="364.0" y="531.0" width="46.0" height="22.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="387.0" y="544.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">BACK</text>
+</g>
+<text x="210.0" y="546.0" font-family="Georgia, 'Times New Roman', serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#000000">PROFILE</text>
+<line x1="0.0" y1="564.0" x2="420.0" y2="564.0" stroke="#000000" stroke-width="1"/>
+<rect x="165.0" y="580.0" width="90.0" height="90.0" rx="3" fill="url(#hatch)" stroke="#000000" stroke-width="1.5"/>
+<text x="210.0" y="628.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">PHOTO</text>
+<rect x="8.0" y="686.0" width="404.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="16.0" y="697.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">NAME</text>
+<text x="16.0" y="709.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" text-anchor="start" fill="#000000">PRIYA SHAH</text>
+<rect x="8.0" y="718.0" width="404.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="16.0" y="729.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">ENROLLMENT NUMBER</text>
+<text x="16.0" y="741.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" text-anchor="start" fill="#000000">21CE045</text>
+<rect x="8.0" y="750.0" width="404.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="16.0" y="761.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">DEPARTMENT</text>
+<text x="16.0" y="773.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" text-anchor="start" fill="#000000">COMPUTER ENGINEERING</text>
+<rect x="8.0" y="782.0" width="404.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="16.0" y="793.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">SEMESTER</text>
+<text x="16.0" y="805.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" text-anchor="start" fill="#000000">5TH SEMESTER</text>
+<rect x="8.0" y="814.0" width="404.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="16.0" y="825.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">CONTACT</text>
+<text x="16.0" y="837.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" text-anchor="start" fill="#000000">+91 98765 43210</text>
+<rect x="8.0" y="846.0" width="404.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="16.0" y="857.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">EMAIL</text>
+<text x="16.0" y="869.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" text-anchor="start" fill="#000000">PRIYA.SHAH@STUDENTHUB.EDU</text>
+</g>
+<g id="screen-settings">
+<rect x="520.0" y="520.0" width="420.0" height="240.0" rx="0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<g id="screen-settings-back">
+<rect x="884.0" y="531.0" width="46.0" height="22.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="907.0" y="544.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">BACK</text>
+</g>
+<text x="730.0" y="546.0" font-family="Georgia, 'Times New Roman', serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#000000">SETTINGS</text>
+<line x1="520.0" y1="564.0" x2="940.0" y2="564.0" stroke="#000000" stroke-width="1"/>
+<rect x="528.0" y="580.0" width="404.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="536.0" y="591.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">NOTIFICATIONS</text>
+<text x="536.0" y="603.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" text-anchor="start" fill="#000000">ON</text>
+<rect x="528.0" y="612.0" width="404.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="536.0" y="623.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">THEME</text>
+<text x="536.0" y="635.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" text-anchor="start" fill="#000000">LIGHT</text>
+<rect x="528.0" y="644.0" width="404.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="536.0" y="655.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">LANGUAGE</text>
+<text x="536.0" y="667.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" text-anchor="start" fill="#000000">ENGLISH</text>
+<rect x="528.0" y="676.0" width="404.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="536.0" y="687.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">PRIVACY</text>
+<text x="536.0" y="699.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" text-anchor="start" fill="#000000">MANAGE</text>
+<rect x="528.0" y="708.0" width="404.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="536.0" y="719.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">LOGOUT</text>
+<text x="536.0" y="731.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" text-anchor="start" fill="#000000">TAP TO LOGOUT</text>
+</g>
+<g id="screen-about">
+<rect x="1040.0" y="520.0" width="420.0" height="328.0" rx="0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<g id="screen-about-back">
+<rect x="1404.0" y="531.0" width="46.0" height="22.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="1427.0" y="544.8" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">BACK</text>
+</g>
+<text x="1250.0" y="546.0" font-family="Georgia, 'Times New Roman', serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#000000">ABOUT US</text>
+<line x1="1040.0" y1="564.0" x2="1460.0" y2="564.0" stroke="#000000" stroke-width="1"/>
+<rect x="1048.0" y="580.0" width="404.0" height="34.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="1056.0" y="592.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">PORTAL DESCRIPTION / COLLEGE INFORMATION</text>
+<rect x="1048.0" y="624.0" width="404.0" height="130.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<line x1="1058.0" y1="640.0" x2="1442.0" y2="640.0" stroke="#999999" stroke-width="1"/>
+<line x1="1058.0" y1="651.0" x2="1430.5" y2="651.0" stroke="#999999" stroke-width="1"/>
+<line x1="1058.0" y1="662.0" x2="1403.6" y2="662.0" stroke="#999999" stroke-width="1"/>
+<line x1="1058.0" y1="673.0" x2="1434.3" y2="673.0" stroke="#999999" stroke-width="1"/>
+<line x1="1058.0" y1="684.0" x2="1288.4" y2="684.0" stroke="#999999" stroke-width="1"/>
+<line x1="1058.0" y1="695.0" x2="1384.4" y2="695.0" stroke="#999999" stroke-width="1"/>
+<line x1="1058.0" y1="706.0" x2="1422.8" y2="706.0" stroke="#999999" stroke-width="1"/>
+<line x1="1058.0" y1="717.0" x2="1211.6" y2="717.0" stroke="#999999" stroke-width="1"/>
+<line x1="1058.0" y1="728.0" x2="1442.0" y2="728.0" stroke="#999999" stroke-width="1"/>
+<rect x="1048.0" y="764.0" width="404.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="1056.0" y="775.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">VERSION</text>
+<text x="1056.0" y="787.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" text-anchor="start" fill="#000000">1.0.0</text>
+<rect x="1048.0" y="796.0" width="404.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="1056.0" y="807.0" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="normal" text-anchor="start" fill="#000000">CONTACT</text>
+<text x="1056.0" y="819.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="bold" text-anchor="start" fill="#000000">SUPPORT@STUDENTHUB.EDU</text>
+</g>
+<g id="screen-login">
+<rect x="1560.0" y="520.0" width="420.0" height="214.0" rx="0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="1770.0" y="546.0" font-family="Georgia, 'Times New Roman', serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#000000">LOGIN</text>
+<line x1="1560.0" y1="564.0" x2="1980.0" y2="564.0" stroke="#000000" stroke-width="1"/>
+<rect x="1568.0" y="584.0" width="404.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="1576.0" y="600.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000000">EMAIL</text>
+<rect x="1568.0" y="620.0" width="404.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="1576.0" y="636.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000000">PASSWORD</text>
+<g id="screen-login-submit">
+<rect x="1568.0" y="656.0" width="404.0" height="26.0" rx="4" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="1770.0" y="672.1" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#000000">LOGIN</text>
+</g>
+<g id="login-to-signup">
+<text x="1770.0" y="702.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">DON'T HAVE AN ACCOUNT?  SIGN UP</text>
+</g>
+</g>
+<g id="screen-signup">
+<rect x="2080.0" y="520.0" width="420.0" height="322.0" rx="0" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="2290.0" y="546.0" font-family="Georgia, 'Times New Roman', serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#000000">SIGN UP</text>
+<line x1="2080.0" y1="564.0" x2="2500.0" y2="564.0" stroke="#000000" stroke-width="1"/>
+<rect x="2088.0" y="584.0" width="404.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="2096.0" y="600.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000000">NAME</text>
+<rect x="2088.0" y="620.0" width="404.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="2096.0" y="636.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000000">ENROLLMENT NUMBER</text>
+<rect x="2088.0" y="656.0" width="404.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="2096.0" y="672.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000000">EMAIL</text>
+<rect x="2088.0" y="692.0" width="404.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="2096.0" y="708.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000000">PASSWORD</text>
+<rect x="2088.0" y="728.0" width="404.0" height="26.0" rx="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+<text x="2096.0" y="744.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="start" fill="#000000">CONFIRM PASSWORD</text>
+<g id="screen-signup-submit">
+<rect x="2088.0" y="764.0" width="404.0" height="26.0" rx="4" fill="#ffffff" stroke="#000000" stroke-width="1.5"/><text x="2290.0" y="780.1" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="normal" text-anchor="middle" fill="#000000">CREATE ACCOUNT</text>
+</g>
+<g id="signup-to-login">
+<text x="2290.0" y="810.0" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="normal" text-anchor="middle" fill="#000000">ALREADY HAVE AN ACCOUNT?  LOGIN</text>
+</g>
+</g>
+</g>
+</svg>
