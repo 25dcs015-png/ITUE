@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StudentHub Portal - Student Registration</title>
+    <link id="theme-style" rel="stylesheet" href="style.css">
+</head>
+<body class="auth-page">
+
+<br><br>
+<center>
+<form id="registration-form" action="profile.html" method="get" novalidate>
+    <table border="1" width="650" cellpadding="16" cellspacing="0">
+        <tr>
+            <td align="center" bgcolor="#f0f0f0">
+                <h1>STUDENT REGISTRATION</h1>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" class="content-container-td">
+                <div class="form-box">
+                    <table border="0" width="100%" class="form-table" cellpadding="8" cellspacing="8">
+                        <tr>
+                            <td align="right" width="40%"><b>NAME:</b></td>
+                            <td align="left" width="60%">
+                                <input type="text" id="name" name="name" size="35" placeholder="Enter full name">
+                                <div class="field-error" id="name-error"></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="right"><b>EMAIL:</b></td>
+                            <td align="left">
+                                <input type="email" id="email" name="email" size="35" placeholder="Enter student email">
+                                <div class="field-error" id="email-error"></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="right"><b>MOBILE NUMBER:</b></td>
+                            <td align="left">
+                                <input type="tel" id="mobile" name="mobile" size="35" placeholder="Enter 10-digit mobile number">
+                                <div class="field-error" id="mobile-error"></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="right"><b>PASSWORD:</b></td>
+                            <td align="left">
+                                <input type="password" id="password" name="password" size="35" placeholder="Create password (min. 6 characters)">
+                                <div class="field-error" id="password-error"></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="right"><b>CONFIRM PASSWORD:</b></td>
+                            <td align="left">
+                                <input type="password" id="confirm_password" name="confirm_password" size="35" placeholder="Confirm password">
+                                <div class="field-error" id="confirm_password-error"></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="right"><b>COURSE:</b></td>
+                            <td align="left">
+                                <select id="course" name="course">
+                                    <option value="">-- Select Course --</option>
+                                    <option value="Computer Science and Engineering">Computer Science and Engineering</option>
+                                    <option value="Information Technology">Information Technology</option>
+                                    <option value="Electronics and Communication">Electronics and Communication</option>
+                                    <option value="Mechanical Engineering">Mechanical Engineering</option>
+                                    <option value="Civil Engineering">Civil Engineering</option>
+                                </select>
+                                <div class="field-error" id="course-error"></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="right"><b>YEAR:</b></td>
+                            <td align="left">
+                                <select id="year" name="year">
+                                    <option value="">-- Select Year --</option>
+                                    <option value="1st Year">1st Year</option>
+                                    <option value="2nd Year">2nd Year</option>
+                                    <option value="3rd Year">3rd Year</option>
+                                    <option value="4th Year">4th Year</option>
+                                </select>
+                                <div class="field-error" id="year-error"></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="right"><b>GENDER:</b></td>
+                            <td align="left">
+                                <div class="gender-group">
+                                    <label><input type="radio" name="gender" value="Male"> Male</label>
+                                    <label><input type="radio" name="gender" value="Female"> Female</label>
+                                    <label><input type="radio" name="gender" value="Other"> Other</label>
+                                </div>
+                                <div class="field-error" id="gender-error"></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="right"><b>TERMS &amp; CONDITIONS:</b></td>
+                            <td align="left">
+                                <div class="checkbox-group">
+                                    <label><input type="checkbox" id="terms" name="terms"> I accept the Terms and Conditions</label>
+                                </div>
+                                <div class="field-error" id="terms-error"></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="center">
+                                <div class="form-submit-container">
+                                    <input type="submit" value="  REGISTER ACCOUNT  ">
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <div class="bottom-link-flex">
+                    <a href="login.html"><h3>ALREADY HAVE AN ACCOUNT? LOGIN</h3></a>
+                </div>
+            </td>
+        </tr>
+    </table>
+</form>
+</center>
+
+<script src="script.js"></script>
+</body>
+</html>
