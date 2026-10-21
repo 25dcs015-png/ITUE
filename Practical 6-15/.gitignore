@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+/uploads/event-posters/*
+!/uploads/event-posters/.htaccess
+!/uploads/event-posters/index.php

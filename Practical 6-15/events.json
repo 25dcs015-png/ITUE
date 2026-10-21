@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": "Coder's Arcade Hackathon",
+    "category": "Technical",
+    "date": "2026-09-28",
+    "time": "10:00 AM",
+    "venue": "Main Auditorium",
+    "format": "Offline",
+    "description": "24-hour national level hackathon testing real-world problem solving and web development skills."
+  },
+  {
+    "id": 2,
+    "title": "Supernova Tech Expo",
+    "category": "Technical",
+    "date": "2026-10-05",
+    "time": "09:30 AM",
+    "venue": "Campus Central Lawn",
+    "format": "Hybrid",
+    "description": "Showcase innovative engineering projects, IoT prototypes, and robotics demonstrations."
+  },
+  {
+    "id": 3,
+    "title": "Coding Battle Championship",
+    "category": "Technical",
+    "date": "2026-10-12",
+    "time": "11:00 AM",
+    "venue": "Computer Lab 3 & 4",
+    "format": "Online",
+    "description": "Fast-paced competitive programming contest with data structures and algorithmic puzzles."
+  },
+  {
+    "id": 4,
+    "title": "Annual Cultural Fest - Tarang",
+    "category": "Cultural",
+    "date": "2026-10-20",
+    "time": "05:00 PM",
+    "venue": "Open Air Theater",
+    "format": "Offline",
+    "description": "Grand cultural evening featuring musical performances, dance battles, and drama skits."
+  },
+  {
+    "id": 5,
+    "title": "Valorant & BGMI Esports Arena",
+    "category": "Sports",
+    "date": "2026-10-28",
+    "time": "10:00 AM",
+    "venue": "Campus Gaming Lounge",
+    "format": "Hybrid",
+    "description": "Inter-college multiplayer gaming showdown with live projection and team brackets."
+  },
+  {
+    "id": 6,
+    "title": "Inter-Department Football Cup",
+    "category": "Sports",
+    "date": "2026-11-02",
+    "time": "04:00 PM",
+    "venue": "University Sports Complex",
+    "format": "Offline",
+    "description": "Knockout football tournament between Engineering, Science, and Management departments."
+  },
+  {
+    "id": 7,
+    "title": "Cybersecurity CTF Quest",
+    "category": "Technical",
+    "date": "2026-11-10",
+    "time": "02:00 PM",
+    "venue": "Virtual Meet (Zoom)",
+    "format": "Online",
+    "description": "Capture the Flag (CTF) security challenge and vulnerability discovery contest."
+  },
+  {
+    "id": 8,
+    "title": "National Parliamentary Debate",
+    "category": "Cultural",
+    "date": "2026-11-18",
+    "time": "10:00 AM",
+    "venue": "Senate Hall",
+    "format": "Offline",
+    "description": "Competitive Oxford-style parliamentary debate on national technology and youth policies."
+  },
+  {
+    "id": 9,
+    "title": "Campus Treasure Hunt",
+    "category": "Cultural",
+    "date": "2026-11-25",
+    "time": "01:30 PM",
+    "venue": "Central Quadrangle",
+    "format": "Offline",
+    "description": "Clue-based campus exploration puzzle race across departments for student squads."
+  },
+  {
+    "id": 10,
+    "title": "Robotics Maze Solver Challenge",
+    "category": "Technical",
+    "date": "2026-12-01",
+    "time": "10:30 AM",
+    "venue": "Robotics Research Lab",
+    "format": "Offline",
+    "description": "Autonomous line-follower and maze-solving robot competition for all engineering branches."
+  },
+  {
+    "id": 11,
+    "title": "Battle of the Bands",
+    "category": "Cultural",
+    "date": "2026-12-08",
+    "time": "06:00 PM",
+    "venue": "Student Amphitheatre",
+    "format": "Offline",
+    "description": "Live rock and acoustic band performances competing for the annual music championship title."
+  },
+  {
+    "id": 12,
+    "title": "Table Tennis & Badminton Tournament",
+    "category": "Sports",
+    "date": "2026-12-14",
+    "time": "03:00 PM",
+    "venue": "Indoor Sports Arena",
+    "format": "Offline",
+    "description": "Singles and doubles table tennis and badminton matches for undergraduate students."
+  },
+  {
+    "id": 13,
+    "title": "Speed Typing & Code Relay",
+    "category": "Technical",
+    "date": "2026-12-20",
+    "time": "09:00 AM",
+    "venue": "Computer Lab 5",
+    "format": "Offline",
+    "description": "Fun technical mini-games featuring blind typing, bug-hunt relay, and syntax sprints."
+  },
+  {
+    "id": 14,
+    "title": "Youth Poetry & Story Slam",
+    "category": "Cultural",
+    "date": "2027-01-08",
+    "time": "11:00 AM",
+    "venue": "Library Reading Lawn",
+    "format": "Offline",
+    "description": "Open mic poetry and creative writing recitation for student writers and poets."
+  },
+  {
+    "id": 15,
+    "title": "Photography & Short Film Gala",
+    "category": "Cultural",
+    "date": "2027-01-15",
+    "time": "10:00 AM",
+    "venue": "Art Gallery Hall",
+    "format": "Offline",
+    "description": "Exhibition of campus life photographs, short student films, and digital artwork."
+  }
+]

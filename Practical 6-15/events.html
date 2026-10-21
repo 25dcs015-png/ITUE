@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StudentHub Portal - Events</title>
+    <link id="theme-style" rel="stylesheet" href="style.css">
+</head>
+<body class="portal-subpage">
+
+<table border="1" width="100%" cellpadding="10" cellspacing="0">
+    <tr>
+        <td align="left" width="70%">
+            <h1>STUDENTHUB PORTAL</h1>
+        </td>
+        <td align="right" width="30%">
+            <div class="top-nav-flex">
+                <a href="home.php" class="back-button"><b>BACK</b></a>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center" bgcolor="#f0f0f0">
+            <h2>EVENTS</h2>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" class="content-container-td">
+            <div class="data-controls-bar">
+                <div class="control-group search-group">
+                    <label for="event-search"><b>SEARCH:</b></label>
+                    <input type="text" id="event-search" placeholder="Search events by name, venue...">
+                </div>
+                <div class="control-group">
+                    <label for="event-category-filter"><b>CATEGORY:</b></label>
+                    <select id="event-category-filter">
+                        <option value="all">All Categories</option>
+                        <option value="Technical">Technical</option>
+                        <option value="Cultural">Cultural</option>
+                        <option value="Sports">Sports</option>
+                        <option value="General">General</option>
+                    </select>
+                </div>
+                <div class="control-group">
+                    <label for="event-format-filter"><b>FORMAT:</b></label>
+                    <select id="event-format-filter">
+                        <option value="all">All Formats</option>
+                        <option value="Offline">Offline</option>
+                        <option value="Online">Online</option>
+                        <option value="Hybrid">Hybrid</option>
+                    </select>
+                </div>
+                <div class="control-group">
+                    <label for="event-sort"><b>SORT BY:</b></label>
+                    <select id="event-sort">
+                        <option value="date-asc">Date (Earliest First)</option>
+                        <option value="date-desc">Date (Latest First)</option>
+                        <option value="title-asc">Title (A - Z)</option>
+                        <option value="title-desc">Title (Z - A)</option>
+                    </select>
+                </div>
+            </div>
+
+            <div id="event-status" class="data-status-msg">Loading events from the database...</div>
+
+            <div id="events-container" class="card-list-grid">
+                <div class="card-item">
+                    <div>
+                        <span class="tag-badge tag-technical">Technical</span>
+                        <span class="event-format-pill">Offline</span>
+                        <h3>CODER'S ARCADE HACKATHON</h3>
+                        <p style="margin-top: 6px;"><b>DATE &amp; TIME:</b> 28 Sep 2026 at 10:00 AM</p>
+                        <p><b>VENUE:</b> Main Auditorium</p>
+                        <p style="font-size: 13px; color: #555; margin-top: 8px;">24-hour national level hackathon testing real-world problem solving and web development skills.</p>
+                    </div>
+                </div>
+                <div class="card-item">
+                    <div>
+                        <span class="tag-badge tag-technical">Technical</span>
+                        <span class="event-format-pill">Hybrid</span>
+                        <h3>SUPERNOVA TECH EXPO</h3>
+                        <p style="margin-top: 6px;"><b>DATE &amp; TIME:</b> 5 Oct 2026 at 09:30 AM</p>
+                        <p><b>VENUE:</b> Campus Central Lawn</p>
+                        <p style="font-size: 13px; color: #555; margin-top: 8px;">Showcase innovative engineering projects, IoT prototypes, and robotics demonstrations.</p>
+                    </div>
+                </div>
+                <div class="card-item">
+                    <div>
+                        <span class="tag-badge tag-technical">Technical</span>
+                        <span class="event-format-pill">Online</span>
+                        <h3>CODING BATTLE CHAMPIONSHIP</h3>
+                        <p style="margin-top: 6px;"><b>DATE &amp; TIME:</b> 12 Oct 2026 at 11:00 AM</p>
+                        <p><b>VENUE:</b> Computer Lab 3 &amp; 4</p>
+                        <p style="font-size: 13px; color: #555; margin-top: 8px;">Fast-paced competitive programming contest with data structures and algorithmic puzzles.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pagination-wrapper" id="events-pagination-wrapper">
+                <div class="pagination-info" id="events-pagination-info"></div>
+                <div class="pagination-controls" id="events-pagination"></div>
+            </div>
+        </td>
+    </tr>
+</table>
+
+<script src="script.js"></script>
+</body>
+</html>

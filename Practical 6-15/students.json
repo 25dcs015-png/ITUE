@@ -1,0 +1,152 @@
+[
+  {
+    "id": "25DCS001",
+    "name": "Aarav Sharma",
+    "course": "Computer Science and Engineering",
+    "year": "3rd Year",
+    "email": "aarav.sharma@studenthub.edu",
+    "mobile": "9876543210",
+    "gender": "Male",
+    "gpa": 8.95
+  },
+  {
+    "id": "25DCS002",
+    "name": "Ananya Patel",
+    "course": "Information Technology",
+    "year": "3rd Year",
+    "email": "ananya.patel@studenthub.edu",
+    "mobile": "9823456781",
+    "gender": "Female",
+    "gpa": 9.20
+  },
+  {
+    "id": "25DCS003",
+    "name": "Rohan Gupta",
+    "course": "Computer Science and Engineering",
+    "year": "2nd Year",
+    "email": "rohan.gupta@studenthub.edu",
+    "mobile": "9812345678",
+    "gender": "Male",
+    "gpa": 8.40
+  },
+  {
+    "id": "25DCS004",
+    "name": "Diya Joshi",
+    "course": "Electronics and Communication",
+    "year": "4th Year",
+    "email": "diya.joshi@studenthub.edu",
+    "mobile": "9845612378",
+    "gender": "Female",
+    "gpa": 9.05
+  },
+  {
+    "id": "25DCS005",
+    "name": "Kabir Mehta",
+    "course": "Mechanical Engineering",
+    "year": "2nd Year",
+    "email": "kabir.mehta@studenthub.edu",
+    "mobile": "9876123450",
+    "gender": "Male",
+    "gpa": 7.80
+  },
+  {
+    "id": "25DCS006",
+    "name": "Isha Verma",
+    "course": "Information Technology",
+    "year": "1st Year",
+    "email": "isha.verma@studenthub.edu",
+    "mobile": "9834567891",
+    "gender": "Female",
+    "gpa": 8.65
+  },
+  {
+    "id": "25DCS007",
+    "name": "Aditya Singh",
+    "course": "Computer Science and Engineering",
+    "year": "4th Year",
+    "email": "aditya.singh@studenthub.edu",
+    "mobile": "9890123456",
+    "gender": "Male",
+    "gpa": 9.45
+  },
+  {
+    "id": "25DCS008",
+    "name": "Sneha Nair",
+    "course": "Civil Engineering",
+    "year": "3rd Year",
+    "email": "sneha.nair@studenthub.edu",
+    "mobile": "9811223344",
+    "gender": "Female",
+    "gpa": 8.10
+  },
+  {
+    "id": "25DCS009",
+    "name": "Vivaan Desai",
+    "course": "Computer Science and Engineering",
+    "year": "1st Year",
+    "email": "vivaan.desai@studenthub.edu",
+    "mobile": "9822334455",
+    "gender": "Male",
+    "gpa": 8.35
+  },
+  {
+    "id": "25DCS010",
+    "name": "Pooja Reddy",
+    "course": "Electronics and Communication",
+    "year": "2nd Year",
+    "email": "pooja.reddy@studenthub.edu",
+    "mobile": "9833445566",
+    "gender": "Female",
+    "gpa": 8.75
+  },
+  {
+    "id": "25DCS011",
+    "name": "Karan Malhotra",
+    "course": "Mechanical Engineering",
+    "year": "4th Year",
+    "email": "karan.malhotra@studenthub.edu",
+    "mobile": "9844556677",
+    "gender": "Male",
+    "gpa": 7.95
+  },
+  {
+    "id": "25DCS012",
+    "name": "Tanvi Shah",
+    "course": "Information Technology",
+    "year": "3rd Year",
+    "email": "tanvi.shah@studenthub.edu",
+    "mobile": "9855667788",
+    "gender": "Female",
+    "gpa": 9.15
+  },
+  {
+    "id": "25DCS013",
+    "name": "Yash Kulkarni",
+    "course": "Civil Engineering",
+    "year": "2nd Year",
+    "email": "yash.kulkarni@studenthub.edu",
+    "mobile": "9866778899",
+    "gender": "Male",
+    "gpa": 8.20
+  },
+  {
+    "id": "25DCS014",
+    "name": "Meera Iyer",
+    "course": "Computer Science and Engineering",
+    "year": "3rd Year",
+    "email": "meera.iyer@studenthub.edu",
+    "mobile": "9877889900",
+    "gender": "Female",
+    "gpa": 9.60
+  },
+  {
+    "id": "25DCS015",
+    "name": "Dev Choudhury",
+    "course": "Electronics and Communication",
+    "year": "1st Year",
+    "email": "dev.choudhury@studenthub.edu",
+    "mobile": "9888990011",
+    "gender": "Male",
+    "gpa": 8.50
+  }
+]

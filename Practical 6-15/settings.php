@@ -1,0 +1,66 @@
+<?php
+require __DIR__ . DIRECTORY_SEPARATOR . "auth.php";
+studenthub_require_login();
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StudentHub Portal - Settings</title>
+    <link id="theme-style" rel="stylesheet" href="style.css">
+</head>
+<body class="centered-subpage">
+
+<br><br><br>
+<center>
+<table border="1" width="600" cellpadding="16" cellspacing="0">
+    <tr>
+        <td align="left" width="70%">
+            <h1>SETTINGS</h1>
+        </td>
+        <td align="right" width="30%">
+            <div class="top-nav-flex">
+                <a href="home.php" class="back-button"><b>BACK</b></a>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" class="content-container-td">
+            <div class="info-box">
+                <table class="info-table" width="100%" cellpadding="10" cellspacing="0">
+                    <tr>
+                        <td width="40%"><b>THEME</b></td>
+                        <td width="60%">
+                            <button id="theme-toggle" class="setting-toggle-btn" type="button">
+                                <span id="theme-status">LIGHT</span> (TAP TO SWITCH)
+                            </button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>LANGUAGE</b></td>
+                        <td>ENGLISH</td>
+                    </tr>
+                    <tr>
+                        <td><b>PRIVACY</b></td>
+                        <td>MANAGE</td>
+                    </tr>
+                    <tr>
+                        <td><b>LOGOUT</b></td>
+                        <td>
+                            <form action="logout.php" method="post">
+                                <input type="hidden" name="csrf_token" value="<?php echo htmlspecialchars(studenthub_csrf_token(), ENT_QUOTES, 'UTF-8'); ?>">
+                                <button type="submit" class="logout-button"><b>TAP TO LOGOUT</b></button>
+                            </form>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+</center>
+
+<script src="script.js"></script>
+</body>
+</html>

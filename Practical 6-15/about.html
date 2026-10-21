@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StudentHub Portal - About Us</title>
+    <link id="theme-style" rel="stylesheet" href="style.css">
+</head>
+<body class="centered-subpage">
+
+<br><br><br>
+<center>
+<table border="1" width="650" cellpadding="16" cellspacing="0">
+    <tr>
+        <td align="left" width="70%">
+            <h1>ABOUT US</h1>
+        </td>
+        <td align="right" width="30%">
+            <div class="top-nav-flex">
+                <a href="home.php" class="back-button"><b>BACK</b></a>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" class="content-container-td">
+            <div class="info-box">
+                <h2>PORTAL DESCRIPTION / COLLEGE INFORMATION</h2>
+                <p>StudentHub Portal is a comprehensive student management platform designed to streamline academic scheduling, course access, event updates, placement tracking, and scholarship information for students and faculty.</p>
+                <br>
+                <p><b>VERSION:</b> 1.0.0</p>
+                <p><b>CONTACT:</b> SUPPORT@STUDENTHUB.EDU</p>
+
+                <br>
+                <br>
+                <h2>FREQUENTLY ASKED QUESTIONS</h2>
+                <div class="data-controls-bar faq-controls-bar">
+                    <div class="control-group search-group">
+                        <label for="faq-search"><b>SEARCH FAQs:</b></label>
+                        <input type="text" id="faq-search" placeholder="Search questions or keywords...">
+                    </div>
+                    <div class="control-group">
+                        <label for="faq-category-filter"><b>TOPIC:</b></label>
+                        <select id="faq-category-filter">
+                            <option value="all">All Topics</option>
+                            <option value="Academics">Academics</option>
+                            <option value="Scholarships">Scholarships</option>
+                            <option value="Placement">Placement</option>
+                            <option value="Portal">Portal</option>
+                            <option value="Events">Events</option>
+                            <option value="Profile">Profile</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div id="faq-status" class="data-status-msg">Loading FAQs from external JSON...</div>
+
+                <div class="faq-section" id="faq-dynamic-container">
+                    <div class="faq-item">
+                        <button class="faq-question" type="button" aria-expanded="false">
+                            <span><b>[Academics]</b> How do I check my timetable and lab sessions?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <p>Click on the TIME TABLE card from the dashboard to view daily lecture timings, practical lab allocations, and classroom numbers.</p>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question" type="button" aria-expanded="false">
+                            <span><b>[Scholarships]</b> How do I apply for merit or sports scholarships?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <p>Visit the SCHOLARSHIP DETAILS section to review eligibility criteria, income thresholds, and grant amounts. Submit required documents at the admin desk.</p>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question" type="button" aria-expanded="false">
+                            <span><b>[Placement]</b> Where can I find upcoming campus placement records?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <p>Go to PLACEMENT RECORDS to view company hiring statistics, top recruiters (TCS, Infosys, Amazon), and annual salary package trends.</p>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <button class="faq-question" type="button" aria-expanded="false">
+                            <span><b>[Portal]</b> How can I switch to Dark Mode?</span>
+                            <span class="faq-icon">+</span>
+                        </button>
+                        <div class="faq-answer">
+                            <p>Navigate to the SETTING page from the bottom-left navigation link and click the Theme Toggle button.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </td>
+    </tr>
+</table>
+</center>
+
+<script src="script.js"></script>
+</body>
+</html>

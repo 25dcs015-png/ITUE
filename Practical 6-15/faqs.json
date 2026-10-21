@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "category": "Academics",
+    "question": "How do I check my timetable and lab sessions?",
+    "answer": "Click on the TIME TABLE card from the dashboard to view daily lecture timings, practical lab allocations, and classroom numbers."
+  },
+  {
+    "id": 2,
+    "category": "Scholarships",
+    "question": "How do I apply for merit or sports scholarships?",
+    "answer": "Visit the SCHOLARSHIP DETAILS section to review eligibility criteria, income thresholds, and grant amounts. Submit required documents at the admin desk."
+  },
+  {
+    "id": 3,
+    "category": "Placement",
+    "question": "Where can I find upcoming campus placement records?",
+    "answer": "Go to PLACEMENT RECORDS to view company hiring statistics, top recruiters (TCS, Infosys, Amazon), and annual salary package trends."
+  },
+  {
+    "id": 4,
+    "category": "Portal",
+    "question": "How can I switch to Dark Mode?",
+    "answer": "Navigate to the SETTING page from the bottom-left navigation link and click the Theme Toggle button."
+  },
+  {
+    "id": 5,
+    "category": "Academics",
+    "question": "Where can I access the course syllabus and textbooks?",
+    "answer": "Select COURSES from the main menu grid to find complete syllabus outlines, reference books, and laboratory manuals."
+  },
+  {
+    "id": 6,
+    "category": "Events",
+    "question": "How can I register for campus hackathons and workshops?",
+    "answer": "Check the EVENTS or WORKSHOP DETAILS page on the portal and follow the individual registration instructions provided on the cards."
+  },
+  {
+    "id": 7,
+    "category": "Profile",
+    "question": "How do I update my registered mobile number and profile details?",
+    "answer": "You can view your registered info under the PROFILE page or submit a fresh registration form via the STUDENT REGISTRATION link."
+  },
+  {
+    "id": 8,
+    "category": "Academics",
+    "question": "What is the minimum attendance requirement for semester exams?",
+    "answer": "A minimum of 75% overall attendance in lectures and laboratory sessions is mandatory to appear in end-semester examinations."
+  },
+  {
+    "id": 9,
+    "category": "Portal",
+    "question": "Is StudentHub Portal accessible on mobile devices?",
+    "answer": "Yes, StudentHub Portal is built with a responsive layout and collapsible mobile navigation menu for all smartphone and tablet screens."
+  },
+  {
+    "id": 10,
+    "category": "Placement",
+    "question": "What is the minimum GPA required for tier-1 placement drives?",
+    "answer": "Most tier-1 visiting companies require an aggregate CGPA of 7.5 or above without any active backlogs."
+  },
+  {
+    "id": 11,
+    "category": "Scholarships",
+    "question": "When are the scholarship disbursement results announced?",
+    "answer": "Scholarship approval notifications are published at the beginning of each academic semester on the portal notices."
+  },
+  {
+    "id": 12,
+    "category": "Events",
+    "question": "Can teams have members from different departments in hackathons?",
+    "answer": "Yes, inter-disciplinary teams are strongly encouraged for technical hackathons and cultural events."
+  },
+  {
+    "id": 13,
+    "category": "Academics",
+    "question": "How do I request mid-semester exam re-evaluations?",
+    "answer": "Submit a re-evaluation request form through the examination cell within 7 days of result declaration."
+  },
+  {
+    "id": 14,
+    "category": "Portal",
+    "question": "How do I clear cached data in the portal?",
+    "answer": "You can clear your browser storage or reset portal settings via the SETTING page."
+  },
+  {
+    "id": 15,
+    "category": "Profile",
+    "question": "Where can I download my Student ID card and semester bonafide?",
+    "answer": "Bonafide certificates and student ID requests can be initiated from the student administration helpdesk."
+  }
+]
